@@ -286,7 +286,7 @@ main .analyse svg circle{
 
 main .analyse .sales svg circle{
     stroke: var(--color-success);
-    stroke-dashoffset: -30;
+    stroke-dashoffset: -25;
     stroke-dasharray: 200;
 }
 
@@ -298,7 +298,7 @@ main .analyse .visits svg circle{
 
 main .analyse .searches svg circle{
     stroke: var(--color-primary);
-    stroke-dashoffset: -30;
+    stroke-dashoffset: -103;
     stroke-dasharray: 200;
 }
 
